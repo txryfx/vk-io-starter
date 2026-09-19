@@ -1,5 +1,5 @@
 {
-  "name": "vk-bot-boilerplate",
+  "name": "vk-io-starter",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {

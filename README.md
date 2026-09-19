@@ -110,8 +110,8 @@
 
 ### 2. Клонирование и установка зависимостей
 ```bash
-git clone https://github.com/your-username/vk-bot-boilerplate.git
-cd vk-bot-boilerplate
+git clone https://github.com/txryfx/vk-io-starter.git
+cd vk-io-starter
 npm install
 ```
 

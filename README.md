@@ -1,4 +1,4 @@
-# 🤖 VK Bot Boilerplate & Architecture Shell
+# 🤖 VK Bot Starter & Architecture Shell
 
 > **Масштабируемая, модульная архитектурная оболочка для создания высоконагруженных и расширяемых ботов ВКонтакте на TypeScript и `vk-io`.**
 
